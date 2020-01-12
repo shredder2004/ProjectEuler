@@ -38,5 +38,23 @@ namespace ProjectEuler
 
             return sum;
         }
+
+        public long ProblemThree()
+        {
+            ProblemThree p3 = new ProblemThree();
+            return p3.Resolve();
+        }
+
+        public long ProblemFour()
+        {
+            ProblemFour p4 = new ProblemFour();
+            return p4.Resolve();
+        }
+
+        public long ProblemFive()
+        {
+            ProblemFive p5 = new ProblemFive();
+            return p5.Resolve();
+        }
     }
 }
