@@ -62,5 +62,11 @@ namespace ProjectEuler
             ProblemSix p6 = new ProblemSix();
             return p6.Resolve();
         }
+
+        public long ProblemSeven()
+        {
+            ProblemSeven p7 = new ProblemSeven();
+            return p7.Resolve();
+        }
     }
 }

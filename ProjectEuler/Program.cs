@@ -13,7 +13,8 @@ namespace ProjectEuler
             //Console.WriteLine($"Problem 3: {app.ProblemThree()}");
             //Console.WriteLine($"Problem 4: {app.ProblemFour()}");
             //Console.WriteLine($"Problem 5: {app.ProblemFive()}");
-            Console.WriteLine($"Problem 6: {app.ProblemSix()}");
+            //Console.WriteLine($"Problem 6: {app.ProblemSix()}");
+            Console.WriteLine($"Problem 7: {app.ProblemSeven()}");
         }
     }
 }
